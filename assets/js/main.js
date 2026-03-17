@@ -955,7 +955,7 @@ function renderResult(data) {
                 <span>Hasil ini bersifat skrining awal dan bukan diagnosis medis. Untuk hasil yang akurat, silakan konsultasi dengan tenaga profesional.</span>
             </div>
             <div class="result-actions">
-                <a href="https://wa.me/6285225604201" target="_blank" class="btn btn-primary">
+                <a href="https://wa.me/628112629888" target="_blank" class="btn btn-primary">
                     💬 Konsultasi via WhatsApp
                 </a>
                 <button class="btn btn-outline" onclick="resetSkrining()">
